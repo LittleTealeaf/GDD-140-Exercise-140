@@ -1,5 +1,9 @@
 /// <reference path="./libraries/p5.global-mode.d.ts" />
 
+/**
+ * All code in this file is written by Thomas Kwashnak
+ */
+
 var y, dy = 5;
 var ellipseWidth = 50;
 
